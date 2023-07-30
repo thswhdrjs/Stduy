@@ -1,4 +1,4 @@
-# 🐜 STUDY 🐝
+# 🐜 STUDY
 
   - [`코드`](https://github.com/thswhdrjs/Stduy/tree/main/Code)
 

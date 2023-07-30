@@ -25,7 +25,24 @@
 
 
   - [`데이터베이스`](https://github.com/thswhdrjs/Stduy/tree/main/DB)
+    1. [`Firebase`](https://github.com/thswhdrjs/Stduy/tree/main/DB/Firebase)
+    2. [`Maria DB`](https://github.com/thswhdrjs/Stduy/tree/main/DB/MriaDB)
+    3. [`Oracle DB`](https://github.com/thswhdrjs/Stduy/tree/main/DB/OracleDB)
+
+    <br>
+
 
   - [`기능`](https://github.com/thswhdrjs/Stduy/tree/main/Function)
+    1. [`Hero`](https://github.com/thswhdrjs/Stduy/tree/main/Function/Hero)
+    2. [`Job System + ECS`](https://github.com/thswhdrjs/Stduy/tree/main/Function/JobSystem_2021.3.6f1_URP)
+    3. [`Passthrough`](https://github.com/thswhdrjs/Stduy/tree/main/Function/PassThrough)
+    3. [`Anchor`](https://github.com/thswhdrjs/Stduy/tree/main/Function/SharedSpatialTest)
+    3. [`TTS`]
+      - `Google AI`(https://github.com/thswhdrjs/Stduy/tree/main/Function/TTS/Test_Google_AI)
+      - `Naver AI`(https://github.com/thswhdrjs/Stduy/tree/main/Function/TTS/Test_Naver_AI)
+    3. [`ML Agents`](https://github.com/thswhdrjs/Stduy/tree/main/Function/ml-agents-main)
+
+    <br>
+
 
   - [`네트워크`](https://github.com/thswhdrjs/Stduy/tree/main/Network)

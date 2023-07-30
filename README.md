@@ -24,7 +24,7 @@
     <br>
 
 
-  - [`데이터베이스`](https://github.com/thswhdrjs/Stduy/tree/main/DB)
+  - ### [`데이터베이스`](https://github.com/thswhdrjs/Stduy/tree/main/DB)
     - [`Firebase`](https://github.com/thswhdrjs/Stduy/tree/main/DB/Firebase)
     - [`Maria DB`](https://github.com/thswhdrjs/Stduy/tree/main/DB/MriaDB)
     - [`Oracle DB`](https://github.com/thswhdrjs/Stduy/tree/main/DB/OracleDB)
@@ -32,7 +32,7 @@
     <br>
 
 
-  - [`기능`](https://github.com/thswhdrjs/Stduy/tree/main/Function)
+  - ### [`기능`](https://github.com/thswhdrjs/Stduy/tree/main/Function)
     - [`Hero`](https://github.com/thswhdrjs/Stduy/tree/main/Function/Hero)
     - [`Job System + ECS`](https://github.com/thswhdrjs/Stduy/tree/main/Function/JobSystem_2021.3.6f1_URP)
     - [`Passthrough`](https://github.com/thswhdrjs/Stduy/tree/main/Function/PassThrough)
@@ -45,4 +45,4 @@
     <br>
 
 
-  - [`네트워크`](https://github.com/thswhdrjs/Stduy/tree/main/Network)
+  - ### [`네트워크`](https://github.com/thswhdrjs/Stduy/tree/main/Network)

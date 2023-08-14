@@ -23,7 +23,6 @@
       19. [`Else`](https://github.com/thswhdrjs/Stduy/tree/main/Code/%EB%B0%B1%EC%A4%80/Else)
 
     - [`프로그래머스`]()
-    <br>
 
 
   - ### [`데이터베이스`](https://github.com/thswhdrjs/Stduy/tree/main/DB)
@@ -31,7 +30,6 @@
     - [`Maria DB`](https://github.com/thswhdrjs/Stduy/tree/main/DB/MriaDB)
     - [`Oracle DB`](https://github.com/thswhdrjs/Stduy/tree/main/DB/OracleDB)
 
-    <br>
 
 
   - ### [`기능`](https://github.com/thswhdrjs/Stduy/tree/main/Function)
@@ -44,7 +42,6 @@
       2. [`Naver AI`](https://github.com/thswhdrjs/Stduy/tree/main/Function/TTS/Test_Naver_AI)
     - [`ML Agents`](https://github.com/thswhdrjs/Stduy/tree/main/Function/ml-agents-main)
 
-    <br>
 
 
   - ### [`네트워크`](https://github.com/thswhdrjs/Stduy/tree/main/Network)

@@ -4,8 +4,8 @@
 
   <br>
 
-  - ## ['Unity'](https://github.com/thswhdrjs/Stduy/tree/main/DB)
+  - ## [`Unity`](https://github.com/thswhdrjs/Unity)
 
   <br>
 
-  - ## ['Unreal`](https://github.com/thswhdrjs/Stduy/tree/main/Function)
+  - ## [`Unreal`](https://github.com/thswhdrjs/Unreal)

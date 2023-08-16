@@ -32,7 +32,7 @@
 
 
 
-  - ### [`기능`](https://github.com/thswhdrjs/Stduy/tree/main/Function)
+  - ### [`유니티`](https://github.com/thswhdrjs/Stduy/tree/main/Function)
     - [`Hero`](https://github.com/thswhdrjs/Stduy/tree/main/Function/Hero)
     - [`Job System + ECS`](https://github.com/thswhdrjs/Stduy/tree/main/Function/JobSystem_2021.3.6f1_URP)
     - [`Passthrough`](https://github.com/thswhdrjs/Stduy/tree/main/Function/PassThrough)

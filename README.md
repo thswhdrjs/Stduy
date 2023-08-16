@@ -1,5 +1,3 @@
-# 🐜 STUDY
-
   - ## [`C#`](https://github.com/thswhdrjs/Code)
 
   <br>
